@@ -1,1 +1,1 @@
-# rag-tutorial-v2
+# RAG based Lecture Notes Reader
